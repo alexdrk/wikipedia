@@ -13,3 +13,8 @@ the proposed changes
 Apparently this is just a suggestion and nothing more.
 I believe wikipedia has done extensive research to end up with the current design
 But it's always nice to have alternatives :)
+
+
+actually it cat get even simpler, check the after2.png
+
+![alt text](after2.png "Changed style v2")
